@@ -1,0 +1,89 @@
+# use collections to realize category
+collections:
+  my_categories:
+    output: true
+    permalink: /blog/category/:name/
+  my_tags:
+    output: true
+    permalink: /blog/tag/:name/
+#sidebar names
+sidebar:
+  home:              主页
+  about:             关于
+  articles:          资源
+  programming:       常规
+  essay:             收藏
+
+# Permalinks
+permalink:           pretty
+
+# Conversion
+markdown:    kramdown
+highlighter: rouge
+excerpt_separator: "\n\n\n"
+
+# Setup
+title:               暗号防空洞  #网站标题
+name:                example
+namecn:              我   #搜索旁的链接，这里不用
+tagline:             '百度云'  #主页上方文字
+description:         "暗号防空洞"
+url:                 https://nstaotao.com
+baseurl:             ''
+gems:
+  - jekyll-feed
+#  - jekyll-seo-tag
+
+
+# Friends
+friends: [
+    {
+        title: "微信求片",
+        href: "/public/img/weixin.png"
+    },{
+        title: "软件下载",
+        href: "https://www.lanzous.com/b570130"
+    },{
+        title: "豆瓣电影",
+        href: "https://movie.douban.com"
+    }
+]
+
+# About/contact
+author:
+  name:              example
+  url:               https://example.github.io
+  email:             example@example.com
+
+sass:
+  style: compressed
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  -
+    scope:
+      path: ""
+      type: my_categories
+    values:
+      layout: blog_by_category
+
+  -
+    scope:
+      path: ""
+      type: my_tags
+    values:
+      layout: blog_by_tag
+
+# Custom vars
+version:             1.0.0
