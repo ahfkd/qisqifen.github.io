@@ -3,45 +3,38 @@ layout:     post
 title:      收藏区-甄子丹电影全集原声超清收藏版
 date:       2019-04-01
 author:     yu
-password: zzd020
 category: gangtai
 tags:
     - 港片收藏
 ---
-<div id="container" style="white-space:pre-wrap">
-1	[2009][十月围城] 链接:https://pan.baidu.com/s/1Xyz9G6zMTOum7rFqFV_suw 密码:fukw
-2	[2005][杀破狼] 链接:https://pan.baidu.com/s/1nBzBUZ6lGugbVtftKUvQlw 密码:t7g7
-3	[2006][龙虎门] 链接:https://pan.baidu.com/s/1aAzIWMjRqhrOwfP63uZZoA 密码:k12c
-4	[2010][叶问2] 链接:https://pan.baidu.com/s/1zFbY_vm_NjUigTGYp07_ZQ 密码:2dp6
-5	[1997][战狼传说] 链接:https://pan.baidu.com/s/1bzoqmpeV25Oo56TPCeRpsA 密码:8te4
-6	[1984][笑太极] 链接:https://pan.baidu.com/s/1ei5iMcKRC1cF6sgYGxtkOA 密码:eqj1
-7	[2008][叶问] 链接:https://pan.baidu.com/s/1dCbi3V9GFb8hyZhJKpzvXw 密码:hgk1
-8	[2007][导火线] 链接:https://pan.baidu.com/s/1DPMYfEi5MvZyMJzu7dbslg 密码:rja6
-9	[2015][叶问3] 链接:https://pan.baidu.com/s/19CEpips6OjwiNCvMKnm3ZA 密码:579e
-10	[2008][证人] 链接:https://pan.baidu.com/s/1R9tohRfKedqYCQU1YxJsAA 密码:biyx
-11	[1989][皇家师姐4直击证人] 链接:https://pan.baidu.com/s/18-fVx0_7Uy7yMT7K5VRJkg 密码:iecr
-12	[1985][情逢敌手] 链接:https://pan.baidu.com/s/1GI_AekhsApJ893wFN0ECcA 密码:f48b
-13	[2017][追龙]https://pan.baidu.com/s/13DaWMftol0tq6qYhoBIT7w
-14	[1990][洗黑钱] https://pan.baidu.com/s/1b9PVQJqPdGEqtlQKUVer2g
-15	[1988][特警屠龙] https://pan.baidu.com/s/1NsZ1GtIhY1wvhi8AEAPLqA
-16	[2010][锦衣卫] https://pan.baidu.com/s/1jcEi2VaEtbev1BeGDRfpHQ
-17	[2014][西游记之大闹天宫] https://pan.baidu.com/s/1hc1ph-wii2L755i1iHoODw
-18	[1993][少年黄飞鸿之铁马骝]https://pan.baidu.com/s/1NhjMhBb5MvvW0PWtHnZAIg
-19	[1993][新流星蝴蝶剑]https://pan.baidu.com/s/1PA7qlA9On2gd3yqYWFnrAQ
-20	[1993][苏乞儿]https://pan.baidu.com/s/1dzwfLp83NnQjag7S-An1eQ
-21	[1994][咏春]https://pan.baidu.com/s/1AfEACeOCXJ-rns470neNGw
-22	[2004][恋情告急]https://pan.baidu.com/s/1gEhNDwGib_Xa60OAVoItrg
-23	[2011][关云长]https://pan.baidu.com/s/1ewRCFGcxIZKJrjhEhupbWA
-24	[2013][特殊身份]https://pan.baidu.com/s/1qIh1kS-tcP1vgNqPQE77hw
-25	[2013][在一起]https://pan.baidu.com/s/1nPJgyn0c7nvpaYHJoi557A
-26	[2018][大师兄]https://pan.baidu.com/s/19di7-a6sR4qxA8NmnROszg
 
-</div>
-<script>
-window.onload=function(){
-  var div = document.getElementById("container");
-  var s=div.innerHTML;
-var re = /(http:\/\/|https:\/\/)((\w|=|\?|\.|\/|&|-)+)/g;
-  div.innerHTML=s.replace(re,"<a <a href='$1$2'>$1$2</a>");
-}
-</script>
+### [百度云链接](https://mubu.com/doc/mZYCftG7f1)
+### 甄子丹电影超清粤语全集
+```
+1984  笑太极 国粤英.DVDrip.x264.AC3.3Audios-CMCT.mkv [1.4G]
+1985  情逢敌手 DVDRip.X264.AC3.mkv [1.4G]
+1988  特警屠龙 Tiger Cage.1988.BluRay.1080p.AC3.2Audio.x264-CHD.mkv [7.9G]
+1989  皇家师姐4直击证人 BluRay.720p.x264.AC3.2Audios-CMCT.mkv [2.4G]
+1990  洗黑钱 BluRay.1080p.AC3.2Audio.x264-CHD.mkv [8.7G]
+1993  少年黄飞鸿之铁马骝 Bluray.1080p.AC3.x264-CHD.mkv [6.4G]
+1993  新流星蝴蝶剑
+1993  苏乞儿
+1994  咏春 国粤英三语中字.mkv [3.2G]
+1997  战狼传说 BluRay.720p.x264.FLAC.2Audios-CMCT.mkv [3.1G]
+2004  恋情告急 WEB-4K.X264.AAC.Cantonese.CHS.52movieba.mp4 [4.4G]
+2005  杀破狼 1080P.国粤双语中字.mkv [3G]
+2006  龙虎门 粤语中字BluRay.720p.x264.AC3-CMCT.mkv [2G]
+2007  导火线 国粤双语BluRay.x264.AC3-CMCT.mkv [2.4G]
+2008  证人 720p.BluRay.x264.AC3-CNXP.mkv [2.5G]
+2008  叶问 港版.720P.国粤双语.mkv [2.7G]
+2009  十月围城 国粤双语BluRay.720p.x264.AC3-CMCT.mkv [3.6G]
+2010  锦衣卫 BluRay.720p.DTS.2Audio.x264-CHDBits.mkv [7.9G]
+2010  叶问2 BluRay.720p.粤语.rmvb [1.6G]
+2011  关云长 BluRay.720p.AC3.2Audio.x264-CHD.mkv [5G]
+2013  特殊身份 720p.BluRay.x264-WiKi.mkv [5G]
+2013  在一起 cantonese-720p.mkv [3.3G]
+2014  西游记之大闹天宫 BluRay.720p.DTS.2Audio.x264-CHD.mkv [4.4G]
+2015  叶问3 BluRay-1080P.国粤双语.mkv [4.5G]
+2017  追龙
+2018  大师兄 1080P.mkv [6.9G]
+```

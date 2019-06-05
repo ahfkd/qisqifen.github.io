@@ -3,28 +3,18 @@ layout:     post
 title:      收藏区-李小龙电影全集原声原盘收藏版
 date:       2019-04-01
 author:     yu
-password: lxl015
 category: gangtai
 tags:
     - 港片收藏
 ---
 
-<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1558266650990&di=2b14a63c950536f497ed5e4c13560eff&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F01700259e822dfa801216a4b5ee69c.jpg%403000w_1l_2o_100sh.jpg"/>
-
-<div id="container" style="white-space:pre-wrap">
-1《猛龙过江》 https://pan.baidu.com/s/1nlD8Rg-2mtrMTV5yMD3kYw
-2《唐山大兄》https://pan.baidu.com/s/10BX2nZ3qDa_0P3WWVsN0Jw
-3《猛龙过江》https://pan.baidu.com/s/1_P1wngQm0YIC8sY2I-ejhw
-4《精武门》https://pan.baidu.com/s/1bvo_3C12QwsxjiORRFNxAQ
-5《死亡游戏》https://pan.baidu.com/s/1ZFGIlAs8IiGsHGqdYH9Olg
-6《加拿大纪录片I.Am.Bruce.Lee》https://pan.baidu.com/s/1LmFEbz34fdDlrCXD6u9j4g
-
-</div>
-<script>
-window.onload=function(){
-  var div = document.getElementById("container");
-  var s=div.innerHTML;
-var re = /(http:\/\/|https:\/\/)((\w|=|\?|\.|\/|&|-)+)/g;
-  div.innerHTML=s.replace(re,"<a <a href='$1$2'>$1$2</a>");
-}
-</script>
+### [百度云链接](https://mubu.com/doc/ATVJ0rHDt1)
+### 李小龙电影蓝光原盘全集
+```
+猛龙过江  The Way of the Dragon 1972 1080p Blu-ray Remux AVC DTS-HD MA 7.1 - KRaLiMaRKo.mkv
+唐山大兄  The Big Boss a.k.a. Fists of Fury 1971 1080p Blu-ray Remux AVC DTS-HD MA 7.1 - KRaLiMaRKo.mkv
+猛龙过江  The Way of the Dragon 1972 1080p Blu-ray Remux AVC DTS-HD MA 7.1 - KRaLiMaRKo.mkv
+精武门  Fist of Fury 1972 BluRay REMUX 1080p AVC DTS-HD MA7.1-CHD.ts
+死亡游戏  Game.of.Death.1978.REMASTERED.BluRay.1080p.x264.DTS.2Audios-CMCT.mkv
+I.Am.Bruce.Lee  加拿大纪录片.2011.Blu-ray.RE.x264.1080p.DTS-HD.MA.5.1-HDS
+```
