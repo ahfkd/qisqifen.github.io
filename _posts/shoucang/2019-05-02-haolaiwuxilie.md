@@ -320,6 +320,7 @@ tags:
 - X战警：第一战 X-Men.First.Class.2011.BD.1080P.x265.10bit.DD5.1.英国双语.内封特效简英.FFansBD.mkv 6.87G
 - X战警：逆转未来 X-Men.Days.of.Future.Past.2014.BD.1080P.x265.10bit.英国导.3Audio.内封特效中字.FFansBD.mkv 6.63G
 - X战警：天启 X-Men.Apocalypse.2016.BD.1080P.x265.10bit.DD5.1.英国双语.内封特效中字.FFansBD.mkv 7.41G
+- X战警：黑凤凰
 
 -  **死侍（Deadpool）系列1-2]**
 死侍]Dead pool.2016.BD1080P.特效中英双字.X264.AC3.CHS-ENG.mkv2
