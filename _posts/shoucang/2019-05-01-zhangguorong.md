@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      收藏区-张国荣电影全集原声超清收藏版
+title:      收藏区-张国荣电影全集原声超清版
 date:       2019-04-01 00:00:02
 author:     yu
 category: gangtai
@@ -9,7 +9,8 @@ tags:
 ---
 
 ### [百度云链接](https://mubu.com/doc/CJSi2CNph1)
-### 张国荣电影超清粤语全集
+### [密码](https://www.510ka.com/details/ZAA0YF8M)
+### 目录
 ```
 1978  红楼春上春 iso原盘
 1980  喝彩

@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      收藏区-甄子丹电影全集原声超清收藏版
+title:      收藏区-甄子丹电影全集原声超清版
 date:       2019-04-01
 author:     yu
 category: gangtai
@@ -9,7 +9,8 @@ tags:
 ---
 
 ### [百度云链接](https://mubu.com/doc/mZYCftG7f1)
-### 甄子丹电影超清粤语全集
+### [密码](https://www.510ka.com/details/KDQF5VHB)
+### 目录
 ```
 1984  笑太极 国粤英.DVDrip.x264.AC3.3Audios-CMCT.mkv [1.4G]
 1985  情逢敌手 DVDRip.X264.AC3.mkv [1.4G]

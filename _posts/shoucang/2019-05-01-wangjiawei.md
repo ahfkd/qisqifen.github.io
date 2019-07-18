@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      收藏区-王家卫电影全集原声超清收藏版
+title:      收藏区-王家卫电影全集原声超清版
 date:       2019-04-01 00:00:02
 author:     yu
 category: gangtai
@@ -9,7 +9,8 @@ tags:
 ---
 
 ### [百度云链接](https://mubu.com/doc/wE7oYakbT1)
-### 王家卫电影超清粤语全集
+### [密码](https://www.510ka.com/details/EAYXK9WC)
+### 目录
 ```
 1994  东邪西毒终极版
 1994  重庆森林 粤语 Chungking Express.1994.720p.Blu-ray.rmvb

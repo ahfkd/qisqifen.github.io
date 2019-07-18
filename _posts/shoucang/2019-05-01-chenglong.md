@@ -9,13 +9,15 @@ tags:
 ---
 
 ### [百度云链接](https://mubu.com/doc/ApIPbbtPr1)
-### 成龙电影超清粤语全集
-```
+### [密码](https://www.510ka.com/details/1G0O1CEJ)
+
+<pre>
+
 1976  少林木人巷 国粤双语.简繁中字 [3G]
 1978  拳精 720p.Bluray.x264.AC3-CnSCG.mkv [3.1G]
 1978  醉拳 Drunken.Master.1978.BD1080P.X264.AC3.Cantonese.CHS.Adans.mkv [4.8G]
 1978  蛇形刁手 Snake.In.The.Eagles.Shadow.1978.HDTV.x264.2Audio.AC3-CnSCG.mkv [2.4G]
-1978  飞渡卷云山 Magnificent.Bodyguards.1978.BluRay.1080p.x265.10bit.MNHD-FRDS.mkv
+1978  飞渡卷云山 Magnificent.Bodyguards.1978.BluRay.1080p.x265.10bit.mkv
 1979  笑拳怪招 国粤 BluRay.720p.rmvb [1.7G]
 1980  师弟出马 The.Young.Master.1980.BluRay.720p.x264.AC3.2Audios-CMCT.mkv [3.4G]
 1982  龙少爷 Dragon.Lord.1982.BluRay.720p.x264.AC3.2Audios-CMCT.mkv [3.3G]
@@ -48,8 +50,8 @@ tags:
 2003  飞龙再生 720p.BluRay.FLAC.x264-TayTO.mkv [3.6G]
 2004  新警察故事 720p.BluRay.x264.AC3.2Audios-CMCT.mkv [2.9G]
 2006  宝贝计划 加长版 Bluray.720p.x264.AC3-CMCT.mkv [4.3G]
-2008  功夫之王 The.Forbidden.Kingdom.2008.BluRay.1080p.x265.10bit.2Audio.MNHD-FRDS.mkv
-2010  大兵小将 Little.Big.Soldier.2010.BluRay.1080p.x265.10bit.2Audio.MNHD-FRDS.mkv
+2008  功夫之王 The.Forbidden.Kingdom.2008.BluRay.1080p.x265.10bit.2Audio.mkv
+2010  大兵小将 Little.Big.Soldier.2010.BluRay.1080p.x265.10bit.2Audio.mkv
 2013  警察故事2013 BluRay.720p.(粤语).rmvb [1.5G]
-2017  英伦对决 The.Foreigner.2017.BluRay.1080p.x265.10bit.MNHD-FRDS
-```
+2017  英伦对决 The.Foreigner.2017.BluRay.1080p.x265.10bit
+</pre>

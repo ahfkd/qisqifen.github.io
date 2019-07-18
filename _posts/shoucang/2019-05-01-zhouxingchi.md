@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      收藏区-周星驰电影全集原声超清收藏版
+title:      收藏区-周星驰电影全集原声超清版
 date:       2019-04-01
 author:     yu
 category: gangtai
@@ -9,8 +9,8 @@ tags:
 ---
 
 ### [百度云链接](https://mubu.com/doc/xuurOVPZ51)
-
-### 周星驰电影超清粤语全集
+### [密码](https://www.510ka.com/details/XWCIO6A7)
+### 目录
 ```
 1987  阴阳界
 1988  捕风汉子 DVD.国粤双语默认国语中字.mkv [3.3G]He.Who.Chases.After.the.Wind.1988.OSV.DVDRip.HALFCD.2Audios.cnensubbed-edit110.mkv [700.5M]

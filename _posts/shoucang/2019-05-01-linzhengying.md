@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      收藏区-林正英电影全集原声超清收藏版
+title:      收藏区-林正英电影全集原声超清版
 date:       2019-04-01
 author:     yu
 category: gangtai
@@ -9,7 +9,8 @@ tags:
 ---
 
 ### [百度云链接](https://mubu.com/doc/pfgbANAkF1)
-### 林正英电影超清粤语全集
+### [密码](https://www.510ka.com/details/3947A7A6)
+### 目录
 ```
 1978  赞先生与找钱华  
 1979  林世荣  
